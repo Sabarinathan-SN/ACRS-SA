@@ -1,0 +1,24 @@
+{
+    "21IT1002": {
+        "passout_year": "2025",
+        "mode_of_collection": "In Person",
+        "name": "Sabarinathan",
+        "reg_no": "21IT1002",
+        "degree_name": "B.Tech",
+        "email": "sabarisankar2603@gmail.com",
+        "accompanying_persons": "3",
+        "food_preference": "Veg",
+        "total_cost": 1450
+    },
+    "21IT1001": {
+        "passout_year": "2025",
+        "mode_of_collection": "In Person",
+        "name": "Yogeshwaran",
+        "reg_no": "21IT1001",
+        "degree_name": "B.Tech",
+        "email": "yoge@gmail.com",
+        "accompanying_persons": "1",
+        "food_preference": "Veg",
+        "total_cost": 1150
+    }
+}

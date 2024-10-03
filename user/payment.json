@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2024-07-15",
+        "time": "08:32:57",
+        "transaction_id": "TXN12345",
+        "reg_no": "21IT1002",
+        "amount": 1450,
+        "status": "verified"
+    },
+    {
+        "date": "2024-07-15",
+        "time": "08:39:29",
+        "transaction_id": "Txn1222222",
+        "reg_no": "21IT1001",
+        "amount": 1150,
+        "status": "rejected"
+    }
+]
